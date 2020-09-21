@@ -1,2 +1,2 @@
-# ITMD-361-Project1
+# Megan Miranda: Project 1
 First Deliverable
