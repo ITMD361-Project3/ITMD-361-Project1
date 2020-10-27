@@ -1,2 +1,2 @@
-# Megan Miranda: Project 1
-First Deliverable
+Project 1
+Final Deliverable
