@@ -1,0 +1,116 @@
+.navlist {
+  padding: 5%;
+}
+a.navlink:link {
+  color: #E9967A;
+  text-align: center;
+  margin: 10px;
+  font-size: 30pt;
+}
+a.navlink:hover: {
+  color: #E9967A;
+  font-size: 40pt;
+  cursor: crosshair;
+}
+#navholder {
+  margin: 0;
+  font-size: 20pt;
+  position: sticky;
+}
+#navbar {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: #F0F8FF;
+  padding: 5%;
+}
+
+
+
+#indexbody {
+  background-color: #E6E6FA;
+  font-family: Arial, Helvetica, Times, sans-serif;
+  align-items: center;
+  text-align: center;
+}
+#welcome {
+  text-align: center;
+  align-items: center;
+  color: #FFF0F5;
+}
+#imgs {
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+#vid {
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+
+#resbody {
+  background-color: #E6E6FA;
+  font-family: Arial, Helvetica, Times, sans-serif;
+  align-items: left;
+  text-align: left;
+}
+#contactinfo {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 9%;
+  font-style: bold;
+  display: grid;
+}
+#summary {
+  text-align: left;
+  font-variant: small-caps;
+  padding-bottom: 3%;
+}
+#education {
+  text-align: left;
+  font-variant: small-caps;
+}
+.exp {
+  text-align: left;
+  font-variant: small-caps;
+  padding-top: 3%;
+  padding-bottom: 9%;
+  border-top-style: dotted;
+}
+
+
+#cakebody {
+  font-family: Arial, Helvetica, Times, sans-serif;
+  align-items: center;
+  text-align: center;
+}
+#cakelogo {
+  color: #CD5C5C;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#caketext {
+  text-align: center;
+  padding-top: 3%;
+  margin-bottom: 10%;
+  font-weight: normal;
+  color: #F08080;
+}
+#cakeinsta {
+  text-align: center;
+  display: grid;
+  color: #E6E6FA;
+  padding-bottom: 5%;
+}
+#cakemenu {
+  font-weight: bold;
+  text-align: center;
+  color: #FFE4B5;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+#cakebanner{
+  align-items: center;
+  margin: auto;
+}
