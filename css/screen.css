@@ -36,11 +36,12 @@ a.navlink:hover: {
 #welcome {
   text-align: center;
   align-items: center;
-  color: #FFF0F5;
+  color: #FF69B4;
 }
 #imgs {
   padding-top: 3%;
   padding-bottom: 5%;
+  display: inline;
 }
 #vid {
   padding-top: 3%;
@@ -51,8 +52,8 @@ a.navlink:hover: {
 #resbody {
   background-color: #E6E6FA;
   font-family: Arial, Helvetica, Times, sans-serif;
-  align-items: left;
-  text-align: left;
+  align-items: center;
+  text-align: center;
 }
 #contactinfo {
   text-align: center;
@@ -62,20 +63,18 @@ a.navlink:hover: {
   display: grid;
 }
 #summary {
-  text-align: left;
+  text-align: center;
   font-variant: small-caps;
   padding-bottom: 3%;
 }
 #education {
-  text-align: left;
+  text-align: center;
   font-variant: small-caps;
 }
 .exp {
-  text-align: left;
+  text-align: center;
   font-variant: small-caps;
-  padding-top: 3%;
-  padding-bottom: 9%;
-  border-top-style: dotted;
+  padding-top: 2%;
 }
 
 
@@ -99,8 +98,8 @@ a.navlink:hover: {
 }
 #cakeinsta {
   text-align: center;
-  display: grid;
-  color: #E6E6FA;
+  align-items: center;
+  color: #F08080;
   padding-bottom: 5%;
 }
 #cakemenu {
@@ -109,6 +108,7 @@ a.navlink:hover: {
   color: #FFE4B5;
   margin-top: 5%;
   margin-bottom: 2%;
+  font-size: 30pt;
 }
 #cakebanner{
   align-items: center;
