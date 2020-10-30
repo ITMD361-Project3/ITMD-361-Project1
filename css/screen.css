@@ -5,16 +5,17 @@ a.navlink:link {
   color: #E9967A;
   text-align: center;
   margin: 10px;
-  font-size: 30pt;
+  font-size: 40%;
+  float: left;
 }
 a.navlink:hover: {
   color: #E9967A;
-  font-size: 40pt;
+  font-size: 30%;
   cursor: crosshair;
 }
 #navholder {
   margin: 0;
-  font-size: 20pt;
+  font-size: 30%;
   position: sticky;
 }
 #navbar {
@@ -23,6 +24,7 @@ a.navlink:hover: {
   justify-content: center;
   color: #F0F8FF;
   padding: 5%;
+  list-style-type: none;
 }
 
 #indexbody {
