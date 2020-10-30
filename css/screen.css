@@ -114,3 +114,6 @@ a.navlink:hover {
   align-items: center;
   margin: auto;
 }
+img { 
+ max-width:100%;
+}
