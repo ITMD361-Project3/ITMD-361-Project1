@@ -7,6 +7,7 @@ a.navlink:link {
   margin: 10px;
   font-size: 40pt;
   float: left;
+  display: block;
 }
 a.navlink:hover {
   color: #E9967A;
