@@ -11,13 +11,13 @@ a.navlink:link {
 }
 a.navlink:hover {
   color: #E9967A;
-  font-size: 25pt;
+  font-size: 2.5vw;
   cursor: crosshair;
   overflow: hidden;
 }
 #navholder {
   margin: 0;
-  font-size: 25pt;
+  font-size: 2.5vw;
   position: sticky;
 }
 #navbar {
