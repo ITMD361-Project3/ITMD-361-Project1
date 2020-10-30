@@ -25,8 +25,6 @@ a.navlink:hover: {
   padding: 5%;
 }
 
-
-
 #indexbody {
   background-color: #E6E6FA;
   font-family: Arial, Helvetica, Times, sans-serif;
@@ -47,8 +45,6 @@ a.navlink:hover: {
   padding-top: 3%;
   padding-bottom: 5%;
 }
-
-
 #resbody {
   background-color: #E6E6FA;
   font-family: Arial, Helvetica, Times, sans-serif;
@@ -76,8 +72,6 @@ a.navlink:hover: {
   font-variant: small-caps;
   padding-top: 2%;
 }
-
-
 #cakebody {
   font-family: Arial, Helvetica, Times, sans-serif;
   align-items: center;
