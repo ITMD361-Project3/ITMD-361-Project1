@@ -1,14 +1,14 @@
 .navlist {
   padding: 5%;
 }
-a.navlink:link {
+a.navlink ul li:link {
   color: #E9967A;
   text-align: center;
   margin: 10px;
   font-size: 40%;
   float: left;
 }
-a.navlink:hover: {
+a.navlink: ul li a:hover {
   color: #E9967A;
   font-size: 30%;
   cursor: crosshair;
@@ -18,7 +18,7 @@ a.navlink:hover: {
   font-size: 30%;
   position: sticky;
 }
-#navbar {
+#navbar ul {
   display: flex;
   text-align: center;
   justify-content: center;
