@@ -29,7 +29,6 @@ a.navlink:hover {
   list-style-type: none;
   list-style: none;
 }
-
 #indexbody {
   background-color: #E6E6FA;
   font-family: Arial, Helvetica, Times, sans-serif;
@@ -60,7 +59,7 @@ a.navlink:hover {
   text-align: center;
   padding-top: 3%;
   padding-bottom: 9%;
-  font-style: bold;
+  font-weight: bold;
   display: grid;
 }
 #summary {
