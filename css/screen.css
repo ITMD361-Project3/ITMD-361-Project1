@@ -1,14 +1,14 @@
 .navlist {
   padding: 5%;
 }
-a.navlink ul li:link {
+a.navlink:link {
   color: #E9967A;
   text-align: center;
   margin: 10px;
   font-size: 40pt;
   float: left;
 }
-a.navlink: ul li a:hover {
+a.navlink:hover {
   color: #E9967A;
   font-size: 25pt;
   cursor: crosshair;
@@ -19,7 +19,7 @@ a.navlink: ul li a:hover {
   font-size: 25pt;
   position: sticky;
 }
-#navbar ul {
+#navbar {
   display: flex;
   text-align: center;
   justify-content: center;
@@ -79,6 +79,7 @@ a.navlink: ul li a:hover {
   font-family: Arial, Helvetica, Times, sans-serif;
   align-items: center;
   text-align: center;
+  background-color: #E6E6FA;
 }
 #cakelogo {
   color: #CD5C5C;
