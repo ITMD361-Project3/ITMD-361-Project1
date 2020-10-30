@@ -5,13 +5,14 @@ a.navlink ul li:link {
   color: #E9967A;
   text-align: center;
   margin: 10px;
-  font-size: 100%;
+  font-size: 40pt;
   float: left;
 }
 a.navlink: ul li a:hover {
   color: #E9967A;
-  font-size: 100%;
+  font-size: 25pt;
   cursor: crosshair;
+  overflow: hidden;
 }
 #navholder {
   margin: 0;
@@ -25,7 +26,6 @@ a.navlink: ul li a:hover {
   color: #F0F8FF;
   padding: 5%;
   list-style-type: none;
-  overflow: hidden;
 }
 
 #indexbody {
