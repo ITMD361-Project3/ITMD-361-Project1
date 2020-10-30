@@ -5,17 +5,17 @@ a.navlink ul li:link {
   color: #E9967A;
   text-align: center;
   margin: 10px;
-  font-size: 40%;
+  font-size: 100%;
   float: left;
 }
 a.navlink: ul li a:hover {
   color: #E9967A;
-  font-size: 30%;
+  font-size: 100%;
   cursor: crosshair;
 }
 #navholder {
   margin: 0;
-  font-size: 30%;
+  font-size: 100%;
   position: sticky;
 }
 #navbar ul {
