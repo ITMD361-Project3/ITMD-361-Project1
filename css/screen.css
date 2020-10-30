@@ -16,7 +16,7 @@ a.navlink: ul li a:hover {
 }
 #navholder {
   margin: 0;
-  font-size: 100%;
+  font-size: 25pt;
   position: sticky;
 }
 #navbar ul {
