@@ -8,10 +8,11 @@ a.navlink:link {
   font-size: 4.0vw;
   float: left;
   display: block;
+  text-decoration: none;
 }
 a.navlink:hover {
   color: #E9967A;
-  font-size: 25pt;
+  font-size: 4.25vw;
   cursor: crosshair;
   overflow: hidden;
 }
@@ -19,6 +20,7 @@ a.navlink:hover {
   margin: 0;
   font-size: 25pt;
   position: sticky;
+  height: 4.5vw;
 }
 #navbar {
   display: flex;
@@ -44,6 +46,7 @@ a.navlink:hover {
   padding-top: 3%;
   padding-bottom: 5%;
   display: inline;
+  float: right;
 }
 #vid {
   padding-top: 3%;
@@ -70,6 +73,7 @@ a.navlink:hover {
 #education {
   text-align: center;
   font-variant: small-caps;
+  float: left;
 }
 .exp {
   text-align: center;
@@ -112,6 +116,7 @@ a.navlink:hover {
 #cakebanner{
   align-items: center;
   margin: auto;
+  float: left;
 }
 img { 
  max-width:100%;
