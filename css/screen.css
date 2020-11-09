@@ -20,7 +20,6 @@ a.navlink:hover {
   margin: 0;
   font-size: 25pt;
   position: sticky;
-  height: 4.5vw;
 }
 #navbar {
   display: flex;
