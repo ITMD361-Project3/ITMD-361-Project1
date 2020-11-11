@@ -87,12 +87,7 @@ a.navlink:hover {
   font-variant: small-caps;
   padding-bottom: 3%;
 }
-#education {
-  text-align: center;
-  font-variant: small-caps;
-  float: left;
-}
-#certs {
+#educerts {
   text-align: center;
   font-variant: small-caps;
   float: left;
