@@ -45,8 +45,7 @@ a.navlink:hover {
   padding-top: 3%;
   padding-bottom: 5%;
   display: inline;
-  float: right;
-  float: right;
+  float: left;
 }
 #vid {
   padding-top: 3%;
@@ -108,7 +107,7 @@ a.navlink:hover {
 #cakemenu {
   font-weight: bold;
   text-align: center;
-  color: #ffcc2e;
+  color: #e8b5c7;
   margin-top: 5%;
   margin-bottom: 2%;
   font-size: 30pt;
