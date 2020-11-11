@@ -46,6 +46,7 @@ a.navlink:hover {
   padding-bottom: 5%;
   display: inline;
   float: right;
+  float: right;
 }
 #vid {
   padding-top: 3%;
@@ -115,7 +116,6 @@ a.navlink:hover {
 #cakebanner{
   align-items: center;
   margin: auto;
-  float: left;
 }
 img { 
  max-width:100%;
