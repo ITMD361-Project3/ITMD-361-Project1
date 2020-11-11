@@ -47,6 +47,10 @@ a.navlink:hover {
   display: inline;
   float: left;
 }
+#lrgimgs {
+  display: inline;
+  float: right;
+}
 #sibsimg {
   display: inline;
   float: left;
