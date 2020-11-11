@@ -92,6 +92,11 @@ a.navlink:hover {
   font-variant: small-caps;
   float: left;
 }
+#certs {
+  text-align: center;
+  font-variant: small-caps;
+  float: left;
+}
 .exp {
   text-align: center;
   font-variant: small-caps;
