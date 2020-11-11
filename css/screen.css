@@ -41,19 +41,27 @@ a.navlink:hover {
   align-items: center;
   color: #FF69B4;
 }
-#imgs {
+#imgs4 {
   padding-top: 3%;
-  padding-bottom: 5%;
+  padding-bottom: 3%;
   display: inline;
   float: left;
 }
-#lrgimgs {
-  display: inline;
-  float: right;
-}
-#sibsimg {
+#imgs3 {
+  padding-top: 3%;
+  padding-bottom: 3%;
   display: inline;
   float: left;
+}
+#imgs2 {
+  display: inline;
+  float: left;
+}
+#imgs1 {
+  display: inline;
+  float: left;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 #vid {
   padding-top: 3%;
