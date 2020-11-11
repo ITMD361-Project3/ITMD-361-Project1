@@ -47,6 +47,10 @@ a.navlink:hover {
   display: inline;
   float: left;
 }
+#sibsimg {
+  display: inline;
+  float: left;
+}
 #vid {
   padding-top: 3%;
   padding-bottom: 5%;
