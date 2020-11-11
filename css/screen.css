@@ -55,13 +55,13 @@ a.navlink:hover {
 }
 #imgs2 {
   display: inline;
-  float: left;
 }
 #imgs1 {
   display: inline;
   float: left;
   padding-top: 3%;
   padding-bottom: 3%;
+  float: left;
 }
 #vid {
   padding-top: 3%;
