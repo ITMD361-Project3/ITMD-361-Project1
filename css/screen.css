@@ -46,12 +46,13 @@ a.navlink:hover {
   padding-bottom: 3%;
   display: inline;
   float: left;
+  padding-left: 6%;
 }
 #imgs3 {
   padding-top: 3%;
   padding-bottom: 3%;
-  display: inline;
   float: left;
+  padding-left: 9%;
 }
 #imgs2 {
   display: inline;
@@ -62,6 +63,7 @@ a.navlink:hover {
   padding-top: 3%;
   padding-bottom: 3%;
   float: left;
+  padding-left: .65%;
 }
 #vid {
   padding-top: 3%;
@@ -132,6 +134,6 @@ a.navlink:hover {
   align-items: center;
   margin: auto;
 }
-img { 
+media { 
  max-width:100%;
 }
