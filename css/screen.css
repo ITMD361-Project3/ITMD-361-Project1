@@ -138,6 +138,7 @@ a.navlink:hover {
   font-variant: small-caps;
   padding-top: 2%;
   width: 100%;
+  float: left;
 }
 #cakebody {
   font-family: Arial, Helvetica, Times, sans-serif;
