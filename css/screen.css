@@ -125,7 +125,7 @@ a.navlink:hover {
 #educerts {
   text-align: center;
   font-variant: small-caps;
-  float: left;
+  float: right;
   width: 50%;
 }
 #educerts: :after {
