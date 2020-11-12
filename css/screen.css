@@ -91,11 +91,18 @@ a.navlink:hover {
   text-align: center;
   font-variant: small-caps;
   float: left;
+  width: 50%;
+}
+#educerts: :after {
+  content: "";
+  clear: both;
+  display: table;
 }
 .exp {
   text-align: center;
   font-variant: small-caps;
   padding-top: 2%;
+  width: 100%;
 }
 #cakebody {
   font-family: Arial, Helvetica, Times, sans-serif;
@@ -133,6 +140,24 @@ a.navlink:hover {
 #cakebanner{
   align-items: center;
   margin: auto;
+}
+.infocontain {
+  width: 100%;
+  padding: 5%;
+}
+.infocontain: :after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.skill {
+  float: left;
+  width: 50%;
+}
+.skill: :after {
+  content: "";
+  clear: both;
+  display: table;
 }
 media { 
  max-width:100%;
