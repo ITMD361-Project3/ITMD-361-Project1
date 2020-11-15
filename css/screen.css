@@ -198,3 +198,29 @@ a.navlink:hover {
 media { 
  max-width:100%;
 }
+
+@media only screen and (min-width: 350px) {
+  #contactinfo {
+    margin: auto;
+    font-weight: normal;
+  }
+  #welcome {
+    font-weight: bold;
+  }
+  #home {
+    font-family: "Times New Roman", Times, serif;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  #contactinfo {
+    margin: auto;
+    font-weight: normal;
+  }
+  #welcome {
+    font-weight: bold;
+  }
+  #home {
+    font-family: "Times New Roman", Times, serif;
+  }
+}
