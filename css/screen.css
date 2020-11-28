@@ -195,6 +195,26 @@ a.navlink:hover {
   clear: both;
   display: table;
 }
+#mapbody {
+  background-color: #E6E6FA;
+  font-family: Arial, Helvetica, Times, sans-serif;
+  align-items: center;
+  text-align: center;
+}
+#googlemap {
+  align-items: center;
+  text-align: center;
+}
+#maptitle {
+  text-align: center;
+  align-items: center;
+}
+#map {
+  text-align: center;
+  align-items: center;
+  margin-top: 5%;
+  margin-bottom: 5%
+}
 media { 
  max-width:100%;
 }
