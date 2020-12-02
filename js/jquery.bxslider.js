@@ -25,7 +25,7 @@
     adaptiveHeight: false,
     adaptiveHeightSpeed: 500,
     video: false,
-    useCSS: true,https://github.com/ITMD361-Project3/ITMD-361-Project3
+    useCSS: true,
     preloadImages: 'visible',
     responsive: true,
     slideZIndex: 50,
