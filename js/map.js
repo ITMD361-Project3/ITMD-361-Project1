@@ -11,7 +11,7 @@ function initMap () {
     position: myLocation,
     map: newMap,
     animation: google.maps.Animation.DROP,
-    icon: 'media/prflagicon.jpg'
+    icon: 'media/pricon.jpg'
   }); 
   
   var contentString = 
