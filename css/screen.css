@@ -204,6 +204,9 @@ a.navlink:hover {
 #googlemap {
   align-items: center;
   text-align: center;
+  height: 700px;
+  width: 80%;
+  margin 0 auto;
 }
 #maptitle {
   text-align: center;
@@ -213,7 +216,8 @@ a.navlink:hover {
   text-align: center;
   align-items: center;
   margin-top: 5%;
-  margin-bottom: 5%
+  margin-bottom: 5%;
+  height: 80%;
 }
 media { 
  max-width:100%;
@@ -285,11 +289,8 @@ ul.bxslider {
    margin: 0;
 }
 .bx-viewport {
-  /*fix other elements on the page moving (on Chrome)*/
   -webkit-transform: translatez(0);
 }
-/** THEME
-===================================*/
 .bx-wrapper {
   -moz-box-shadow: 0 0 5px #ccc;
   -webkit-box-shadow: 0 0 5px #ccc;
@@ -303,7 +304,7 @@ ul.bxslider {
   bottom: -30px;
   width: 100%;
 }
-/* LOADER */
+
 .bx-wrapper .bx-loading {
   min-height: 50px;
   background: url('../media/bx_loader.gif') center center no-repeat #ffffff;
@@ -314,7 +315,7 @@ ul.bxslider {
   left: 0;
   z-index: 2000;
 }
-/* PAGER */
+
 .bx-wrapper .bx-pager {
   text-align: center;
   font-size: .85em;
@@ -351,7 +352,7 @@ ul.bxslider {
   font-size: 0;
   line-height: 0;
 }
-/* DIRECTION CONTROLS (NEXT / PREV) */
+
 .bx-wrapper .bx-prev {
   left: 10px;
   background: url('../media/controls.png') no-repeat 0 -32px;
@@ -381,7 +382,7 @@ ul.bxslider {
 .bx-wrapper .bx-controls-direction a.disabled {
   display: none;
 }
-/* AUTO CONTROLS (START / STOP) */
+
 .bx-wrapper .bx-controls-auto {
   text-align: center;
 }
@@ -413,7 +414,7 @@ ul.bxslider {
 .bx-wrapper .bx-controls-auto .bx-stop:focus {
   background-position: -86px -33px;
 }
-/* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
+
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager {
   text-align: left;
   width: 80%;
@@ -422,7 +423,7 @@ ul.bxslider {
   right: 0;
   width: 35px;
 }
-/* IMAGE CAPTIONS */
+
 .bx-wrapper .bx-caption {
   position: absolute;
   bottom: 0;
@@ -433,7 +434,7 @@ ul.bxslider {
 }
 .bx-wrapper .bx-caption span {
   color: #fff;
-  font-family: Arial;
+  font-family: Arial, Helvetica, Times;
   display: block;
   font-size: .85em;
   padding: 10px;
