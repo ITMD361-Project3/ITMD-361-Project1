@@ -206,7 +206,7 @@ a.navlink:hover {
   text-align: center;
   height: 700px;
   width: 80%;
-  margin 0 auto;
+  margin: 0 auto;
 }
 #maptitle {
   text-align: center;
@@ -250,10 +250,6 @@ media {
 }
 
 /*Slider Specific*/
-/** VARIABLES
-===================================*/
-/** RESET AND LAYOUT
-===================================*/
 .slidecontain { 
   margin: 0 auto; 
   padding-bottom:20px;
