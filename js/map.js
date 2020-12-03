@@ -4,18 +4,14 @@ function initMap () {
     center: defaultCenter,
     zoom: 10
   };
-  
   var myLocation =  new google.maps.LatLng(18.2550,-66.4670);
-
-  var mapElement = document.getElementById('map');
-
-  var map = new google.maps.Map (mapElement, mapOptions);
-  
+  var mapElement = document.getElementById("map");
+  var newMap = new google.maps.Map (mapElement, mapOptions);
   var marker = new google.maps.Marker ({
     position: myLocation,
-    map: map,
+    map: newMap,
     animation: google.maps.Animation.DROP,
-    icon: 'media/pricon.jpg'
+    icon: 'media/prflagicon.jpg'
   }); 
   
   var contentString = 
@@ -40,3 +36,16 @@ function initMap () {
  
  google.maps.event.addDomListener(window, 'load', initMap);
 }
+$(document).ready(function(){
+    $('.slider').bxSlider({
+    slideWidth: 1200,
+    adaptiveHeight: true,
+    shrinkItems: false,
+    controls: true,
+    autoControls: true,
+    auto: true,
+    autoStart: true,
+    autoHover: true,
+    captions: true,
+    });
+});
